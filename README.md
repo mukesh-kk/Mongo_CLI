@@ -1,5 +1,7 @@
 # Mongo_CLI
-**Connect to Db**
+![MongoDb][https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/MongoDB_Logo.svg/2560px-MongoDB_Logo.svg.png]
+
+**First Connect to Db**
 
 * To see all the dbs
 
